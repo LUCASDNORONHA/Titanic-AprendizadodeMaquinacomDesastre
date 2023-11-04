@@ -2,7 +2,7 @@
 
 # Titanic - Aprendizado de Máquina com Desastre
 
-O famosa desafio do Titanic do Kaggle, nós propoêm criação de um model de algoritmo de machine learning para prever com alta taxa de acerto, quais passageiros sobreviverão ao naufrágio do Titanic.
+O famoso desafio do Titanic do Kaggle, nós propoêm criação de um model de algoritmo de machine learning para prever com alta taxa de acerto, quais passageiros sobreviverão ao naufrágio do Titanic.
 
 ### História do Titanic:
 
