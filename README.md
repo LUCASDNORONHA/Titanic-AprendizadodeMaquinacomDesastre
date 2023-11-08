@@ -25,4 +25,4 @@ O conjunto de dados test.csv contém informações semelhantes, mas não revela 
 Usando os padrões encontrados nos dados train.csv, devemos prever se os outros 418 passageiros a bordo (encontrados em test.csv) sobreviveram.
 
 
-Fonte desafio: [Titanic - Machine Learning from Disaster](https://www.kaggle.com/code/startupsci/titanic-data-science-solutions)
+Fonte desafio: [Titanic - Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic)
